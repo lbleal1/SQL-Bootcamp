@@ -1,0 +1,6 @@
+to open pgAdmin:
+1. go to home
+2. cd pgAdmin4
+3. cd pgAdmin4
+4. source bin/activate
+5. python lib/python3.6/site-packages/pgadmin4/pgAdmin4.py
