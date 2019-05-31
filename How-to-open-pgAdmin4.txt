@@ -4,3 +4,4 @@ to open pgAdmin:
 3. cd pgAdmin4
 4. source bin/activate
 5. sudo python3 lib/python3.6/site-packages/pgadmin4/pgAdmin4.py
+
